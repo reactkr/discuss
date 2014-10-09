@@ -6,3 +6,5 @@ React 🇰🇷
 * **Watch**를 눌러 새 글을 받아보세요. ([구독 설정](https://github.com/reactkr/discuss/subscription))
 * [목록 보기](https://github.com/reactkr/discuss/issues)
 * [글쓰기](https://github.com/reactkr/discuss/issues/new) (이슈로 작성해주세요.)
+
+IRC 채널 [Ozinger #react](irc://irc.ozinger.org/react)에서도 대화 나누실 수 있어요.
