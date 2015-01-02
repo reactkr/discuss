@@ -9,4 +9,4 @@ React 🇰🇷
 * [목록 보기](https://github.com/reactkr/discuss/issues)
 * [글쓰기](https://github.com/reactkr/discuss/issues/new) (이슈로 작성해주세요.)
 
-IRC 채널 [Ozinger #react](irc://irc.ozinger.org/react)에서도 대화 나누실 수 있어요.
+[Gitter](https://gitter.im/reactkr/discuss)에서도 대화 나누실 수 있어요.
